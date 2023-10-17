@@ -16,7 +16,7 @@ The following technologies and tools are used in this project:
 
 ## Demo link
 
-You can view a live demo site at this link:  ([My Bike](https://andriiyelieva.github.io/myBile-landind/)).
+You can view a live demo site at this link:  ([My Bike](https://andriiyelieva.github.io/My_Bike/)).
 
 ## Launching the Project.
 
