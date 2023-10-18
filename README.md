@@ -18,6 +18,10 @@ The following technologies and tools are used in this project:
 
 You can view a live demo site at this link:  ([My Bike](https://andriiyelieva.github.io/My_Bike/)).
 
+ ## Design Mockup
+
+To view the design mockup for this project, click on the following link:  [Design Mockup](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1&mode=dev).
+
 ## Launching the Project.
 
 1. Clone this repository to your computer.
